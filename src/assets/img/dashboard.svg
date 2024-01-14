@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="Layer_5" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
+	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#0073A0;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview47" inkscape:current-layer="Layer_5" inkscape:cx="256" inkscape:cy="256" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="480" inkscape:window-maximized="0" inkscape:window-width="760" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="0.4609375" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<path id="path2" class="st0" d="M480,8H32C18.8,8,8,18.8,8,32v320c0,13.2,10.8,24,24,24h216c0,70.6,57.4,128,128,128
+	s128-57.4,128-128V32C504,18.8,493.2,8,480,8z M32,24h448c4.4,0,8,3.6,8,8v40H24V32C24,27.6,27.6,24,32,24z M368,372.7l-76.5,76.5
+	C274.4,429.6,264,404,264,376c0-59.1,46-107.5,104-111.6V372.7z M302.8,460.5l73.2-73.2l73.2,73.2C429.6,477.6,404,488,376,488
+	S322.4,477.6,302.8,460.5z M460.5,449.2L384,372.7V264.4c58,4.1,104,52.5,104,111.6C488,404,477.6,429.6,460.5,449.2z M376,248
+	c-65.2,0-119,49-126.9,112H32c-4.4,0-8-3.6-8-8V88h464v226.2C466.2,274.8,424.2,248,376,248z"/>
+<path id="path4" class="st1" d="M296,376c0-35.6,23.9-67.3,58.2-77l-4.4-15.4C308.7,295.2,280,333.2,280,376H296z"/>
+<path id="path6" class="st1" d="M281.6,393.4c1.1,6,2.8,11.8,5,17.5l14.9-5.8c-1.8-4.7-3.2-9.6-4.1-14.5L281.6,393.4z"/>
+<path id="path8" class="st1" d="M452.7,353.1l15.3-4.6c-1.7-5.6-3.8-11-6.5-16.2l-14.2,7.3C449.5,344,451.3,348.5,452.7,353.1z"/>
+<path id="path10" class="st1" d="M456,376c0,2-0.1,3.9-0.2,5.9l16,1.2c0.2-2.3,0.3-4.7,0.3-7.1c0-3.5-0.2-6.9-0.6-10.4l-15.9,1.7
+	C455.8,370.2,456,373.1,456,376L456,376z"/>
+<path id="path12" class="st1" d="M448.5,409.9l14.5,6.8c2.5-5.3,4.5-10.8,5.9-16.4l-15.5-4C452.2,400.9,450.6,405.5,448.5,409.9
+	L448.5,409.9z"/>
+<path id="path14" class="st0" d="M72,40h16v16H72V40z"/>
+<path id="path16" class="st0" d="M40,40h16v16H40V40z"/>
+<path id="path18" class="st0" d="M104,40h16v16h-16V40z"/>
+<path id="path20" class="st0" d="M176,104H64c-13.2,0-24,10.8-24,24v64c0,13.2,10.8,24,24,24h112c13.2,0,24-10.8,24-24v-64
+	C200,114.8,189.2,104,176,104z M184,192c0,4.4-3.6,8-8,8H64c-4.4,0-8-3.6-8-8v-64c0-4.4,3.6-8,8-8h112c4.4,0,8,3.6,8,8V192z"/>
+<path id="path22" class="st0" d="M176,232H64c-13.2,0-24,10.8-24,24v64c0,13.2,10.8,24,24,24h112c13.2,0,24-10.8,24-24v-64
+	C200,242.8,189.2,232,176,232z M184,320c0,4.4-3.6,8-8,8H64c-4.4,0-8-3.6-8-8v-64c0-4.4,3.6-8,8-8h112c4.4,0,8,3.6,8,8V320z"/>
+<path id="path24" class="st1" d="M128,164.7l-24-24l-37.7,37.7l11.3,11.3l26.3-26.3l24,24l45.7-45.7l-11.3-11.3L128,164.7z"/>
+<path id="path26" class="st1" d="M152,264h-16v32h-16v-16h-16v16H88v-32H72v48h96v-16h-16V264z"/>
+<path id="path28" class="st1" d="M232,104h16v16h-16V104z"/>
+<path id="path30" class="st1" d="M264,104h208v16H264V104z"/>
+<path id="path32" class="st1" d="M232,136h240v16H232V136z"/>
+<path id="path34" class="st1" d="M232,168h48v16h-48V168z"/>
+<path id="path36" class="st1" d="M296,168h176v16H296V168z"/>
+<path id="path38" class="st1" d="M232,200h144v16H232V200z"/>
+<path id="path40" class="st1" d="M392,200h16v16h-16V200z"/>
+<path id="path42" class="st1" d="M424,200h16v16h-16V200z"/>
+<path id="path44" class="st1" d="M456,200h16v16h-16V200z"/>
+</svg>
